@@ -63,3 +63,8 @@ Throughout the academy, participants will explore various aspects of modern web 
   > As a tentor.
 
 ---
+
+## Academician
+
+- Novrieza Rizki Fadillah (https://github.com/vriezaa) [NOV]
+> As an academician.
