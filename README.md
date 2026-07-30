@@ -63,3 +63,8 @@ Throughout the academy, participants will explore various aspects of modern web 
   > As a tentor.
 
 ---
+
+## Academician
+
+- [Razin Fadhil Pratama](https://github.com/razinfadhilpratama) [RMA]
+> As an academician.
