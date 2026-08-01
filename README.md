@@ -63,3 +63,9 @@ Throughout the academy, participants will explore various aspects of modern web 
   > As a tentor.
 
 ---
+
+## Academician
+
+- [Rimata Alden Al Manar](https://github.com/Fujito-sketch) [RMT]
+> As an academician.
+> Website link -> [Website](https://website.com)
