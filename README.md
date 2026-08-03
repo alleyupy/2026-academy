@@ -63,3 +63,9 @@ Throughout the academy, participants will explore various aspects of modern web 
   > As a tentor.
 
 ---
+
+## Academician
+
+- [Aldra Maulana Putra](https://github.com/aldramaulana2803) [DRA]
+> As an academician.
+> Website link -> [Website](https://website.com)[SOON AS POSSIBLE]
