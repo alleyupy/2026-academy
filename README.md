@@ -66,5 +66,7 @@ Throughout the academy, participants will explore various aspects of modern web 
 
 ## Academician
 
+- [Novrieza Rizki Fadillah](https://github.com/vriezaa) [NOV]
+  > As an academician.
 - [Razin Fadhil Pratama](https://github.com/razinfadhilpratama) [RMA]
-> As an academician.
+  > As an academician.
