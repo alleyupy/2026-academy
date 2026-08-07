@@ -76,3 +76,5 @@ Throughout the academy, participants will explore various aspects of modern web 
   > As an academician.
 - [Hilma Hilyatulislam](https://github.com/hilmahilyatulislam) [MAY]
   > As an academician.
+- [Kayla Nanda Nihan Amin Purnamasari](https://github.com/k0yyy) [NAP]
+  > As an academician.
