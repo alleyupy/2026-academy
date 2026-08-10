@@ -82,3 +82,5 @@ Throughout the academy, participants will explore various aspects of modern web 
   > As an academician.
 - [Kayla Nanda Nihan Amin Purnamasari](https://github.com/k0yyy) [NAP]
   > As an academician.
+- [Rahmalia Putri Wandani](https://github.com/aliawalvez) [AEL]
+  > As an academician.
