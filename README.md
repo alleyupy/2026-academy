@@ -76,5 +76,11 @@ Throughout the academy, participants will explore various aspects of modern web 
   > As an academician.
 - [Hilma Hilyatulislam](https://github.com/hilmahilyatulislam) [MAY]
   > As an academician.
+- [Josua Jacobus Kore](https://github.com/JokoKore) [KOR]
+  > As an academician.
+- [Bayu Ardhi Nugroho](https://github.com/bayuardhi102) [SON]
+  > As an academician.
+- [Kayla Nanda Nihan Amin Purnamasari](https://github.com/k0yyy) [NAP]
+  > As an academician.
 - [Rahmalia Putri Wandani](https://github.com/aliawalvez) [AEL]
   > As an academician.
