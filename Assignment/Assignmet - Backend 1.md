@@ -12,7 +12,7 @@ berikut adalah kriteria yang harus dikerjakan:
 - [ ] Responsif terhadap banyak ukuran window (minimal mode Handphone dan Komputer)
 
 Bonus:
-- [ ] Bisa menampilkan dan menyajikan data dari url berikut: ![https://.api.ptrkr.moe](https://.api.ptrkr.moe)
+- [ ] Bisa menampilkan dan menyajikan data dari url berikut: [https://api.ptrkr.moe](https://api.ptrkr.moe)
 - [ ] Memiliki konten dinamis, seperti counter atau todo-list
 
 Contoh dari landing page yang dibuat adalah sebagai berikut:
@@ -20,6 +20,6 @@ Contoh dari landing page yang dibuat adalah sebagai berikut:
 - Layanan/Produk tertentu
 - dan lain-lain
 
-Pengumpulan bisa dilakukan di link berikut : ![https://forms.gle/bBgavMJERnLwYNaDA](https://forms.gle/bBgavMJERnLwYNaDA)
+Pengumpulan bisa dilakukan di link berikut : [https://forms.gle/bBgavMJERnLwYNaDA](https://forms.gle/bBgavMJERnLwYNaDA)
 
 Selamat mengerjakan :D
